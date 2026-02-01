@@ -6,7 +6,6 @@
 
 :root {
     --text: #fff;
-    --brand-test-color: #06141b;
 }
 
 
@@ -36,7 +35,7 @@ header nav {
     flex-wrap: wrap;}
 
 header.scrolled {
-    background-color: var(--header-color); }
+    background-color: #000; }
 
 /* header tag */
 
